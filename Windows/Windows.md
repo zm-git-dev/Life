@@ -1,6 +1,6 @@
 # Windows密钥
 ## Windows 7密钥
-1、Windows 7旗舰版“OEM密钥”：
+### 1、Windows 7旗舰版“OEM密钥”：
 
 [DELL]
 
@@ -18,7 +18,7 @@ FJGCP-4DFJD-GJY49-VJBQ7-HYRR2
 
 49PB6-6BJ6Y-KHGCQ-7DDY6-TF7CD
 
-2、Windows 7专业版“OEM密钥”：
+### 2、Windows 7专业版“OEM密钥”：
 
 [Acer]
 
@@ -36,7 +36,7 @@ YKHFT-KW986-GK4PY-FDWYH-7TP9F
 
 GMJQF-JC7VC-76HMH-M4RKY-V4HX6
 
-3、Windows 7家庭版“OEM密钥”：
+### 3、Windows 7家庭版“OEM密钥”：
 
 [Packard Bell]
 
@@ -54,9 +54,9 @@ VQB3X-Q3KP8-WJ2H8-R6B6D-7QJB7
 
 CQBVJ-9J697-PWB9R-4K7W4-2BT4J
 
-三、Windows 7 “OEM 密钥”(22个)
+## Windows 7 “OEM 密钥”(22个)
 
-1、Ultimate：
+### 1、Ultimate：
 
 Acer
 
@@ -74,7 +74,7 @@ Dell
 
 49PB6-6BJ6Y-KHGCQ-7DDY6-TF7CD
 
-2、Professional:
+### 2、Professional:
 
 Acer
 
@@ -95,7 +95,7 @@ SONY
 
 H9M26-6BXJP-XXFCY-7BR4V-24X8J
 
-3、Home Premium:
+### 3、Home Premium:
 
 Asus
 
@@ -129,7 +129,7 @@ Packard Bell
 
 VQB3X-Q3KP8-WJ2H8-R6B6D-7QJB7
 
-5、Starter:
+### 5、Starter:
 
 Dell
 
@@ -147,9 +147,9 @@ Toshiba
 
 TGBKB-9KBGJ-3Y3J6-K8M2F-J2HJQ
 
-四、Windows 7 “OEM 密钥”(50个)
+## Windows 7 “OEM 密钥”(50个)
 
-1、Windows 7 Starter OEM
+### 1、Windows 7 Starter OEM
 
 PKRD7-K8863-WY28P-3YQGW-BP2CY
 
@@ -169,7 +169,7 @@ GXRHM-CGB6Y-4WRD9-KFD7C-QXQ2B
 
 C7KYW-CBKVC-DPC82-7TPKD-Y8T2C
 
-2、Windows 7 Home Basic Retail
+### 2、Windows 7 Home Basic Retail
 
 P4DBR-8YPT6-KHRB8-6T7RW-GMXGV
 
@@ -191,7 +191,7 @@ WXM3Y-H2GDY-TKFQH-6GQQF-7VG8P
 
 V6V3G-9DB2T-BD4VC-44JVQ-6BVR2
 
-3、Windows 7 Home Premium Retail
+### 3、Windows 7 Home Premium Retail
 
 MVW82-3R7QW-Y4QDM-99M3V-C4QW3
 
@@ -213,7 +213,7 @@ RHVHB-VYF67-9FT4M-2WXR8-P3C6R
 
 4CBPF-W7GXG-J4J8F-GHG79-Q9YT8
 
-4、Windows 7 Professional Retail
+### 4、Windows 7 Professional Retail
 
 HWRFF-2FFYX-XFXP2-DYFC3-BX3B7
 
@@ -235,7 +235,7 @@ TTY4D-RDKK9-TYB2T-68WJW-M69KJ
 
 BWPX2-XK2T8-3GV2W-KHQVP-QXCDV
 
-5、Windows 7 Ultimate Retail
+### 5、Windows 7 Ultimate Retail
 
 J783Y-JKQWR-677Q8-KCXTF-BHWGC
 
@@ -271,13 +271,13 @@ FJGCP-4DFJD-GJY49-VJBQ7-HYRR2
 
 YKHFT-KW986-GK4PY-FDWYH-7TP9F
 
-导入“OEM密钥”方法：
+## 导入“OEM密钥”方法：
 
 1、以“管理员身份”运行“命令提示符”;
 
 2、键入slmgr.vbs -ipk xxxxx-xxxxx-xxxxx-xxxxx-xxxxx(X为产品密钥)
 
-Windows 7旗舰版密钥
+### Windows 7旗舰版密钥
 
 RHTBY-VWY6D-QJRJ9-JGQ3X-Q2289
 
@@ -293,9 +293,10 @@ PRG2C-6MTQ2-RPFKB-QFJRR-CDM36
 
 236TW-X778T-8MV9F-937GT-QVKBB
 
-Windows 10密钥
+## Windows 10密钥
 
-专业版：OEM:YK9N6-CR846-X39FQ-7FX73-JTYP2
+### 专业版：
+OEM:YK9N6-CR846-X39FQ-7FX73-JTYP2
 
 NF6HC-QH89W-F8WYV-WWXV4-WFG6P
 
@@ -317,18 +318,29 @@ TNM78-FJKXR-P26YV-GP8MB-JK8XG
 
 TR8NX-K7KPD-YTRW3-XTHKX-KQBP6 
 
-家庭版：VOLUME:TX9XD-98N7V-6WMQ6-BX7FG-H8Q99 
+### 家庭版：
 
-企业版：VOLUME:NPPR9-FWDCX-D2C8J-H872K-2YT43 
+VOLUME:TX9XD-98N7V-6WMQ6-BX7FG-H8Q99 
+
+### 企业版：
+
+VOLUME:NPPR9-FWDCX-D2C8J-H872K-2YT43 
 
 OEM:XGVPP-NMH47-7TTHJ-W3FW7-8HV2C  
 
-教育版：RETAIL:YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY
+### 教育版：
 
-专业版N：RETAIL:2B87N-8KFHP-DKV6R-Y2C8J-PKCKT
+RETAIL:YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY
 
-家庭版N：
-企业版N：VOLUME:WGGHN-J84D6-QYCPR-T7PJ7-X766F
+### 专业版N：
 
-教育版N：RETAIL:84NGF-MHBT6-FXBX8-QWJK7-DRR8H
+RETAIL:2B87N-8KFHP-DKV6R-Y2C8J-PKCKT
+
+### 企业版N：
+
+VOLUME:WGGHN-J84D6-QYCPR-T7PJ7-X766F
+
+### 教育版N：
+
+RETAIL:84NGF-MHBT6-FXBX8-QWJK7-DRR8H
 
